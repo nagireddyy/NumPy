@@ -6,6 +6,17 @@
 
 ---
 
+# How to Start
+
+1. **Fork** this repository.  
+2. Open `numpy_student_lab.ipynb` in **Google Colab**.  
+3. Complete all **TODO** sections.  
+4. **Restart runtime → Run All** cells.  
+5. Push changes and submit a **Pull Request**.  
+
+⚠️ **Do NOT edit notebooks directly on GitHub.**
+
+
 ## Lab Rules (FAANG Style)
 
 - ❌ No Python loops unless explicitly allowed
@@ -14,6 +25,32 @@
 - ✅ Explain *why* NumPy code is faster
 
 ---
+
+# Out of Scope
+
+- `scikit-learn`  
+- Model training  
+- Accuracy optimization
+
+# Notebook Rules
+
+- Do **NOT** rename the notebook  
+- Do **NOT** delete TODOs  
+- Do **NOT** hardcode outputs  
+- Notebook must run **top-to-bottom**  
+
+---
+
+# Dataset
+
+- Synthetic NumPy arrays only  
+
+## Why?
+
+- Removes data distractions  
+- Forces focus on computation, memory, and math  
+- Mirrors FAANG interview settings  
+
 
 ## Section 1 — ndarray Fundamentals
 
